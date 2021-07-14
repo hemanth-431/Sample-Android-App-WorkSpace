@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628760243444",
+    "firebase_url": "https://splashliter-c67a6.firebaseio.com",
+    "project_id": "splashliter-c67a6",
+    "storage_bucket": "splashliter-c67a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628760243444:android:e83d457f8a7795ebbc82a1",
+        "android_client_info": {
+          "package_name": "com.example.splashliter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628760243444-4a6q3s8hkpg625gdetmjd11j2h0toeg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.splashliter",
+            "certificate_hash": "a5f85f0b6238296b9e41eb3d862884ab32033aac"
+          }
+        },
+        {
+          "client_id": "628760243444-m131arvf6718dhve8q3bqpd4vg902rmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlqJFNAJayC84skyy2vMuZOmQj2AWCFoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628760243444-m131arvf6718dhve8q3bqpd4vg902rmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

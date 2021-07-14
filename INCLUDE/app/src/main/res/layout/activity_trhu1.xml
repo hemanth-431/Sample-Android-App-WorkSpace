@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/x2"
+    tools:context=".trhu1">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginRight="20dp">
+
+            <TextView
+                android:id="@+id/txtinclude"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="#INCLUDE"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#FFFFFF"
+                android:textSize="22sp"
+                app:fontFamily="serif" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtinclude"
+                android:layout_marginTop="6dp"
+                android:text="A National level Techno Fiesta"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                app:fontFamily="cursive" />
+
+            <ImageView
+                android:id="@+id/a"
+                android:layout_width="62dp"
+                android:layout_height="62dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="21dp"
+                android:src="@drawable/person">
+
+            </ImageView>
+        </RelativeLayout>
+
+        <ScrollView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentEnd="true"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginStart="38dp"
+                android:layout_marginLeft="38dp"
+                android:layout_marginTop="35dp"
+                android:layout_marginEnd="31dp"
+                android:layout_marginRight="31dp"
+                android:layout_marginBottom="35dp"
+                android:text=" VR TREASURE HUNT\n
+Treasure Hunt using AR/VR\n
+Its a series of games\n
+1.	Collecting colour sheets containing letters “#include”.\n
+2.	A paper will be given to team which have collected the colour sheets, and a video will be played on paper when it scanned by app prepared by us.\n
+3.	In that video , hint for the laptop’s password will be given, student has to crack that and open laptop.\n
+4.	In laptop , there will be a game running , (Blink game AR) , student have to play and winner will be selected from that.\n
+5.	Finally winner has to post a photo with face filter that was created by us  by tagging ‘#include’ insta page and ‘Mayavi’ Insta page.\n
+RULES\n
+●	Use of Cell phones and electronic gadgets are restricted if found disqualify from the event.\n
+●	No discussion between the participants unless its a team.\n
+●	Order of the team must be followed according to the order given by the coordinator.\n
+●	Team is not responsible for any lost of personal belongings.\n "
+                android:textColor="#ffff"
+                android:textSize="16sp"
+                app:fontFamily="casual" />
+        </ScrollView>
+    </LinearLayout>
+</RelativeLayout>

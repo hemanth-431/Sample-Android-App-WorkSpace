@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "857476528754",
+    "firebase_url": "https://gurus-7fa99.firebaseio.com",
+    "project_id": "gurus-7fa99",
+    "storage_bucket": "gurus-7fa99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857476528754:android:e0eeef3cd7fcafcbbfa0eb",
+        "android_client_info": {
+          "package_name": "com.example.gurus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857476528754-rhmh318em5k8dqk4gpmkvipj8f0vq4u8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gurus",
+            "certificate_hash": "a5f85f0b6238296b9e41eb3d862884ab32033aac"
+          }
+        },
+        {
+          "client_id": "857476528754-4aahk2c0uon8c262ud2nsl9sqr4ko1nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf8ClJKBHKMMhH3wuJMxHJ1DgMLDYxx1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857476528754-4aahk2c0uon8c262ud2nsl9sqr4ko1nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChilliActivity">
+    <TextView
+        android:id="@+id/one"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="BLACK SOIL"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="50dp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/two"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CHILLIES:"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="110dp"
+        android:textColor="#000000"
+        />
+
+    <TextView
+        android:id="@+id/three"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SEASON                    :  WARM AND HUMID CLIMATE"
+        android:layout_marginLeft="20dp"
+        android:textSize="15dp"
+        android:layout_marginTop="165dp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/four"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TEMPERATURE        :  18-200degrees"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="190dp"
+        android:textSize="15dp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/five"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="RAINFALL                  :  40-50CM"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="215dp"
+        android:textSize="15dp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/six"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="HARVESTING TIME  : 6-8 Months"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="240dp"
+        android:textSize="15dp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/seven"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="INVESTMENT            :  Rs:350 per acre"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="265dp"
+        android:textSize="15dp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/eight"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PEST EFFECT            :  Capsaicin"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="295dp"
+        android:textSize="15dp"
+        android:textColor="#000000"
+        />
+
+    <TextView
+        android:id="@+id/nine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PESTICIDES               :  HarvestOregano-Pesticide"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="320dp"
+        android:textSize="15dp"
+        android:textColor="#000000"
+        />
+    <TextView
+        android:id="@+id/eleven"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PESTATTACKS          :"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="345dp"
+        android:textSize="15dp"
+        android:textColor="#000000"
+        />
+
+    <ImageView
+        android:id="@+id/ten"
+        android:layout_width="382dp"
+        android:layout_height="158dp"
+        android:layout_below="@+id/nine"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="47dp"
+        android:src="@drawable/chillip" />
+
+</RelativeLayout>

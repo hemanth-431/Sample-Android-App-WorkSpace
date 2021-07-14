@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">KL FOCUS</string>
+    <string-array name="loginposition">
+        <item>Select Post</item>
+        <item>admin</item>
+        <item>coordinator</item>
+        <item>core</item>
+    </string-array>
+</resources>

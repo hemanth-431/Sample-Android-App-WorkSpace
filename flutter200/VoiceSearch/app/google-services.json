@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "218205515529",
+    "firebase_url": "https://voicesearch-22c28.firebaseio.com",
+    "project_id": "voicesearch-22c28",
+    "storage_bucket": "voicesearch-22c28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218205515529:android:7d8ca1a0e15d1ca97c6dd8",
+        "android_client_info": {
+          "package_name": "com.example.voicesearch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "218205515529-ue48kvqhi7shrgr5tasvuhfsq2ifq6tf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAQ9J6aG_vKeFEesgEkXI3-4PqR0j8qqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "218205515529-ue48kvqhi7shrgr5tasvuhfsq2ifq6tf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1099167682182",
+    "firebase_url": "https://klfocus-a73d0.firebaseio.com",
+    "project_id": "klfocus-a73d0",
+    "storage_bucket": "klfocus-a73d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099167682182:android:621b015cfcff59a9ff8b07",
+        "android_client_info": {
+          "package_name": "com.codinginflow.klfocus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099167682182-m76g1s6t77efc6tdlonmgr72itgn1rqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codinginflow.klfocus",
+            "certificate_hash": "a5f85f0b6238296b9e41eb3d862884ab32033aac"
+          }
+        },
+        {
+          "client_id": "1099167682182-q8mq6qq88olhfomaajukhloj3q2pnmms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDczUcb_ytTg3GemM-hhuQkYuPCiQ9nFDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099167682182-q8mq6qq88olhfomaajukhloj3q2pnmms.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

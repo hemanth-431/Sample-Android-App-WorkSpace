@@ -1,0 +1,28 @@
+PODS:
+  - Sketch (3.0)
+  - TensorFlowLiteC (2.3.0):
+    - TensorFlowLiteC/Core (= 2.3.0)
+  - TensorFlowLiteC/Core (2.3.0)
+  - TensorFlowLiteSwift (2.3.0):
+    - TensorFlowLiteSwift/Core (= 2.3.0)
+  - TensorFlowLiteSwift/Core (2.3.0):
+    - TensorFlowLiteC (= 2.3.0)
+
+DEPENDENCIES:
+  - Sketch
+  - TensorFlowLiteSwift (~> 2.3.0)
+
+SPEC REPOS:
+  trunk:
+    - Sketch
+    - TensorFlowLiteC
+    - TensorFlowLiteSwift
+
+SPEC CHECKSUMS:
+  Sketch: 49a4b71f7bc77316ed5f75ee79dedaa2b844d5e7
+  TensorFlowLiteC: 51f50caf5777f740a70e2c1a5dbdc149e7aeb50b
+  TensorFlowLiteSwift: fb152cc1eec36b25b03a23c07f5d58113170af58
+
+PODFILE CHECKSUM: 599ff5945abe9957fc97d764c0acaee7eef43552
+
+COCOAPODS: 1.9.3

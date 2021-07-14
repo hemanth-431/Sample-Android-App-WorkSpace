@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/x2"
+    tools:context=".vc1">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="32dp"
+            android:layout_marginRight="20dp">
+
+            <TextView
+                android:id="@+id/txtinclude"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="#INCLUDE"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#FFFFFF"
+                android:textSize="22sp"
+                app:fontFamily="serif" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@id/txtinclude"
+                android:layout_marginTop="6dp"
+                android:text="A National level Techno Fiesta"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp"
+                app:fontFamily="cursive" />
+
+            <ImageView
+                android:id="@+id/a"
+                android:layout_width="62dp"
+                android:layout_height="62dp"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="21dp"
+                android:src="@drawable/person">
+
+            </ImageView>
+        </RelativeLayout>
+
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginStart="38dp"
+            android:layout_marginLeft="38dp"
+            android:layout_marginTop="35dp"
+            android:layout_marginEnd="31dp"
+            android:layout_marginRight="31dp"
+            android:layout_marginBottom="35dp"
+            android:text=" VERSO CODER\n
+Participants are given with a set of input and output test cases, using which the participant has to frame the actual problem statement and solve it. At the end, the program written by the participant will be checked on more other test cases.\n
+Team Size : 3 Members. "
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="#ffff"
+            android:textSize="16sp"
+            app:fontFamily="casual" />
+    </LinearLayout>
+</RelativeLayout>

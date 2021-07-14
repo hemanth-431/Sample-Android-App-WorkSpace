@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "227314015631",
+    "firebase_url": "https://mail-1d05c.firebaseio.com",
+    "project_id": "mail-1d05c",
+    "storage_bucket": "mail-1d05c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:227314015631:android:7eb460429d9319c5883ffa",
+        "android_client_info": {
+          "package_name": "com.example.mail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "227314015631-mp07o652l0gj5b6e9bk1pmjhepsoasav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mail",
+            "certificate_hash": "a5f85f0b6238296b9e41eb3d862884ab32033aac"
+          }
+        },
+        {
+          "client_id": "227314015631-g2k2c00t75r42ecleue25q9l5i4s0log.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuXO99jYeldq1fTlwI7QjO18A3WdpTWgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "227314015631-g2k2c00t75r42ecleue25q9l5i4s0log.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
